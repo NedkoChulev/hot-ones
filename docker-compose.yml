@@ -1,0 +1,11 @@
+services:
+  hot-ones:
+    container_name: hot-ones
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - 3000:3000
+    volumes:
+      - ./questions.json:/app/questions.json:ro
