@@ -1,4 +1,5 @@
 # 🔥 Hot Ones Challenge (Homelab Edition)
+
 ![Screenshot of the Hot Ones Challenge web app](./public/screenshot.png)
 
 A spicy, interactive *Hot Ones*-inspired web app built for fun, chaos, and deep questions.
