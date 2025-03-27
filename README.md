@@ -15,7 +15,7 @@ This project lets you recreate the Hot Ones experience at home: 10 wings - 10 cu
 Create a `.env` file
 
 ```bash
-cp .example.env .env
+cp example.env .env
 ```
 
 ---
