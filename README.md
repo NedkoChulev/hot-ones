@@ -18,6 +18,12 @@ Create a `.env` file
 cp example.env .env
 ```
 
+Create a `questions.json`
+
+```bash
+cp example.questions.json questions.json
+```
+
 ---
 
 ### Run locally (dev mode)
